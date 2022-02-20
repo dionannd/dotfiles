@@ -1,6 +1,7 @@
 ## Dion's Dotfiles
 
-My Personal Ubuntu terminal setup dotfiles, for Neovim editor setup [here](https://github.com/dionannd/nfs) 
+My Personal Ubuntu terminal setup dotfiles, for Neovim editor setup [here](https://github.com/dionannd/nfs) <br />
+![Screenshots](https://github.com/dionannd/dotfiles/blob/master/image/screenshot-022-02-20%2023-01-40.png)
 
 ### Setup Terminal
 
