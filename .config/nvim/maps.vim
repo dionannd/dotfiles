@@ -63,4 +63,3 @@ nmap <C-w><down> <C-w>-
 " Mode
 imap jj <esc>
 imap jk <esc>
-imap ii <esc>
