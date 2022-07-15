@@ -16,6 +16,7 @@ alias ll "ls -l"
 alias lla "ll -A"
 alias g git
 command -qv nvim && alias vim nvim
+alias ide "bash ~/ide.sh"
 
 set -gx EDITOR nvim
 
@@ -53,3 +54,8 @@ set LOCAL_CONFIG (dirname (status --current-filename))/config-local.fish
 if test -f $LOCAL_CONFIG
   source $LOCAL_CONFIG
 end
+
+# bun
+set -Ux BUN_INSTALL "/home/dion/.bun"
+fish_add_path "/home/dion/.bun/bin"
+
