@@ -1,4 +1,4 @@
-# Dotfiles
+## Dotfiles
 
 Dotfile for Fish shell & Neovim scratch
 
@@ -12,7 +12,7 @@ Dotfile for Fish shell & Neovim scratch
 
 ## Vim setup
 
-Requires Neovim (>= 0.5)
+Requires Neovim (>= 0.7) or Nightly
 
 - [vim-plug](https://github.com/junegunn/vim-plug) - A minimalist Vim plugin manager
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - A collection of configurations for Neovim's built-in LSP
