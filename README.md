@@ -4,13 +4,13 @@ Dotfile for Fish shell & Neovim scratch
 
 ## Contents
 
-- vim (NeoVim) config
+- nvim (NeoVim) config
   - Plugins are managed with [vim-plug](https://github.com/junegunn/vim-plug)
+- fish config
 - tmux config
 - git config
-- fish config
 
-## Vim setup
+## Nvim setup
 
 Requires Neovim (>= 0.7) or Nightly
 
