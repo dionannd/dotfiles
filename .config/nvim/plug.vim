@@ -29,6 +29,7 @@ if has("nvim")
   Plug 'windwp/nvim-ts-autotag'
   Plug 'kyazdani42/nvim-web-devicons'
   Plug 'terrortylor/nvim-comment'
+  Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' }
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }
