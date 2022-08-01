@@ -2,11 +2,22 @@
 
 ## Contents
 
-- nvim (NeoVim) config
-  - Plugins are managed with [vim-plug](https://github.com/junegunn/vim-plug)
 - fish config
 - tmux config
 - git config
+- nvim (NeoVim) config
+  - Plugins are managed with [vim-plug](https://github.com/junegunn/vim-plug)
+
+## Shell setup (macOS & Linux)
+
+- [Fish shell](https://fishshell.com/)
+- [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager
+- [Tide](https://github.com/IlanCosman/tide) - Shell theme. Use version 5: `fisher install ilancosman/tide@v5`
+- [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Powerline-patched fonts. I use Hack.
+- [z for fish](https://github.com/jethrokuan/z) - Directory jumping
+- [Exa](https://the.exa.website/) - `ls` replacement
+- [ghq](https://github.com/x-motemen/ghq) - Local Git repository organizer
+- [peco](https://github.com/peco/peco) - Interactive filtering
 
 ## Nvim setup
 
@@ -21,14 +32,3 @@ Requires [Neovim](https://github.com/neovim/neovim) (>= 0.7) or [Nightly](https:
   - It is used for installing an LSP server for Tailwind CSS
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - A highly extendable fuzzy finder over lists
 - [defx.nvim](https://github.com/Shougo/defx.nvim) - A file explorer
-
-## Shell setup (macOS & Linux)
-
-- [Fish shell](https://fishshell.com/)
-- [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager
-- [Tide](https://github.com/IlanCosman/tide) - Shell theme. Use version 5: `fisher install ilancosman/tide@v5`
-- [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Powerline-patched fonts. I use Hack.
-- [z for fish](https://github.com/jethrokuan/z) - Directory jumping
-- [Exa](https://the.exa.website/) - `ls` replacement
-- [ghq](https://github.com/x-motemen/ghq) - Local Git repository organizer
-- [peco](https://github.com/peco/peco) - Interactive filtering
