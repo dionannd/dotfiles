@@ -1,4 +1,4 @@
-![dotfiles](https://socialify.git.ci/dionannd/dotfiles/image?description=1&descriptionEditable=My%20Personal%20Dotfiles%20Configuration%20for%20Ubuntu%20or%20WSL.%20(Shell%20%26%20Tmux)&font=Inter&language=1&owner=1&pattern=Plus&theme=Light)
+![dotfiles](https://socialify.git.ci/dionannd/dotfiles/image?description=1&descriptionEditable=My%20Personal%20Dotfiles%20Configuration%20for%20Ubuntu%20or%20WSL.%20(Shell%20%26%20Tmux)&font=Inter&language=1&owner=1&pattern=Plus&theme=Dark)
 
 ## Contents
 
