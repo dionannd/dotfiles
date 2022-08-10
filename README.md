@@ -7,6 +7,8 @@
 - Fish config
 - PowerShell config
 
+[Move to nvim config](https://github.com/dionannd/nvim-config)
+
 ## Shell setup (macOS & Linux)
 
 - [Fish shell](https://fishshell.com/)
