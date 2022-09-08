@@ -2,7 +2,7 @@
 
 ## Contents
 
-- Tmux config
+- Tmux config (v3.2a)
 - Git config
 - Fish config
 - PowerShell config
